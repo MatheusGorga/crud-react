@@ -3,7 +3,7 @@ import 'font-awesome/css/font-awesome.min.css'
 import './App.css'
 import React from 'react'
 import { HashRouter } from 'react-router-dom'
-// Pode ser utilziado o BrowserRouter mas pode dar bug em produção
+// Pode ser utilizado o BrowserRouter mas pode dar bug em produção
 
 
 
